@@ -15,6 +15,3 @@
 # write a function that prints out each number in the array
 # write a function that loops through each number in the array and compare it to all other numbers in the array
 
-
-
-
