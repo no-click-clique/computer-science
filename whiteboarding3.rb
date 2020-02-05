@@ -26,3 +26,62 @@
 # puts open_c
 # puts open_s
 
+# Write a function that takes in two arrays of numbers and returns all the numbers that appear in both arrays.
+
+# Input: 
+# arr1 = [3, 5, 6, 7, 1]
+# arr2 = [5, 6, 2, 8, 4]
+# Output: 5, 6
+
+# Decomposition
+# Write a function that takes in two arrays and prints out each array
+# Write a function that takes in two arrays and loops through the first array and prints out each number one at a time
+# Write a function that takes in two arrays and loops through the first array, keeping track of the number of times each number appears in the array in a hash
+# Write a function that takes in two arrays and loops through the first array, keeping track of the number of times each number appears in the array in a hash, then loops through the second array and sees if any numbers are in the hash, prints out the number if number is in the hash
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
